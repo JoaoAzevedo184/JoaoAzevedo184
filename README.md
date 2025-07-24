@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">👩‍💻  Um pouco de mim</h2>
+<h2 align="center">👩‍💻  Um pouco de mim</h2>
 
 ###
 
@@ -36,20 +36,20 @@
 
 ###
 
-<h3 align="left"> 📚 Estou estudando</h3>
+<h3 align="center"> 📚 Estou estudando</h3>
 
 ###
 
-- Desenvolvimento Back-end com Java e Spring Boot  
-- Estrutura de Dados e Algoritmos  
-- Docker e Microserviços  
-- Arquitetura de Software
+<p align="left">- Desenvolvimento Back-end com Java e Spring Boot   </p>
+<p align="left">- Estrutura de Dados e Algoritmos   </p>
+<p align="left">- Docker e Microserviços   </p>
+<p align="left">- Arquitetura de Software </p>
 
 --- 
 
 ###
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
 
 ###
 
@@ -79,7 +79,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
