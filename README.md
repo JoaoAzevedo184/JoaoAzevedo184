@@ -27,9 +27,13 @@
 <p align="left">💻 Apaixonado por tecnologia, desenvolvimento de software e inovação </p>
 <p align="left">🚀 Em busca de oportunidades como estagiário ou desenvolvedor júnior </p>
 <p align="left">📍 Olinda, Pernambuco  </p>
+
 --- 
+
 <p align="left"> Tenho facilidade de aprendizado, gosto por desafios e sou comprometido com a melhoria contínua. Participo ativamente de cursos, projetos pessoais e iniciativas acadêmicas que ampliam minha visão sobre o setor de tecnologia. Interesse especial por desenvolvimento back-end, front-end, cloud computing e machine learning. </p>
+
 --- 
+
 ###
 
 <h3 align="left"> 📚 Estou estudando</h3>
@@ -40,7 +44,9 @@
 - Estrutura de Dados e Algoritmos  
 - Docker e Microserviços  
 - Arquitetura de Software
+
 --- 
+
 ###
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
@@ -68,7 +74,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
 --- 
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
